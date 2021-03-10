@@ -2,3 +2,6 @@
 I like talk radio
 I like snow
 I like biscuits
+I like 1
+I like 2
+I do not like 13
