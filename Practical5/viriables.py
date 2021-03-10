@@ -15,5 +15,6 @@ y= False
 z = (x and not y) or (y and not x)
 print(z)
 
-w= (x！=y)
-print(w)
+w = (x!=y)
+if w==z:
+  print(str(w))
