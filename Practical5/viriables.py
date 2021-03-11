@@ -3,7 +3,7 @@ b= 190784
 c= 100321
 d= a-c
 e= b-c
-if d>e:
+if d>e:         #judge all situations
   print('d>e')
 elif d<e:
   print('d<e')
@@ -15,6 +15,6 @@ y= False
 z = (x and not y) or (y and not x)
 print(z)
 
-w = (x!=y)
+w = (x!=y) #simple
 if w==z:
   print(str(w))
